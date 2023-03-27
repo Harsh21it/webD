@@ -1,5 +1,14 @@
 .header{
-    margin:0%;
-    position: absolute;
+    margin:0;
+    position: relative;
     background-color: B5F1CC;
+    height:70px;
+}
+.our-logo{
+    height:50%;
+    position: absolute;
+    top:25%;
+    left:0;
+    bottom:25%;
+    margin:0;
 }
